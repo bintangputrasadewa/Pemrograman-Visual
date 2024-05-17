@@ -1,0 +1,63 @@
+C:\Users\Acer - GK\Documents\PA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe.config
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe.config
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.pdb
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.xml
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\mysql.data.dll
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbprojResolveAssemblyReference.cache
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.Resources.resources
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbproj.GenerateResource.Cache
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.exe
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.xml
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.pdb
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.AdminForm.resources
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.PelangganForm.resources
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.RegisForm.resources
+D:\pa\pemvis\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.strukForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe.config
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.exe
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.xml
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.pdb
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.pdb
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.xml
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbprojResolveAssemblyReference.cache
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.AdminForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.Resources.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.PelangganForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.RegisForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.strukForm.resources
+D:\PA PEMVIS\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbproj.GenerateResource.Cache
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe.config
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.exe
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.xml
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.pdb
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.pdb
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.xml
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbprojResolveAssemblyReference.cache
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.AdminForm.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.LoginForm.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.PelangganForm.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.RegisForm.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.strukForm.resources
+C:\Users\Acer - GK\Documents\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbproj.GenerateResource.Cache
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe.config
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.exe
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.xml
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.pdb
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.exe
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.pdb
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\bin\Debug\Kelompok5_PemvisPA.xml
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbprojResolveAssemblyReference.cache
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.AdminForm.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.LoginForm.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.Resources.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.PelangganForm.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.RegisForm.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.strukForm.resources
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\Kelompok5_PemvisPA.vbproj.GenerateResource.Cache
+D:\PA PEMVIS\DOKUMEN TERBARU\Kelompok5_PemvisPA(Perbaikan)\Kelompok5_PemvisPA\Kelompok5_PemvisPA\Kelompok5_PemvisPA\obj\Debug\WindowsApplication1.FMenu.resources
